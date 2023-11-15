@@ -2,7 +2,7 @@
 
 This proyect is for the class CIIC4082 for the Fall semester 2023-2024 
 
-GitHub repository:
+GitHub repository: https://github.com/ChristopherLagos/proyectociic4082/tree/main
 
 Youtube links:
     ACT1: https://youtu.be/g6jCG9OFFp4
